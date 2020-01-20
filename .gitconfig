@@ -1,0 +1,9 @@
+[core]
+	excludesfile = ~/.gitignore_global
+	editor = vim
+        pager = diff-so-fancy | less -FXRi
+[user]
+	email = fabien.ung@manomano.com
+	name = Fabien Ung
+[rebase]
+        instructionFormat = [%an @ %ar] %s
